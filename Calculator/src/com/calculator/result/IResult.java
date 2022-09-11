@@ -9,5 +9,6 @@ public interface IResult {
 	
 	public void profileView111();
 	
-	
+	public void profileEdit();
+
 }
