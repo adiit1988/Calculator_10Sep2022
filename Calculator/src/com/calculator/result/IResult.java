@@ -8,5 +8,12 @@ public interface IResult {
 	public void hide();
 =======
 	public void profile();
+<<<<<<< HEAD
 >>>>>>> cd251e3 (Update IResult.java)
+=======
+	
+	public void profileView111();
+	
+	
+>>>>>>> 107bb9d (updated profileView111 API)
 }
