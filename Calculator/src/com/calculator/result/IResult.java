@@ -9,6 +9,7 @@ public interface IResult {
 =======
 	public void profile();
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> cd251e3 (Update IResult.java)
 =======
 	
@@ -16,4 +17,7 @@ public interface IResult {
 	
 	
 >>>>>>> 107bb9d (updated profileView111 API)
+=======
+	public void profileEdit();
+>>>>>>> 8c0e53f (Updated with public void profileEdit(); API)
 }
